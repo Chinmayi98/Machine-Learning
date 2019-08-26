@@ -1,7 +1,7 @@
 # OVERVIEW OF MACHINE LEARNING 
 
-
 ![](https://miro.medium.com/max/848/1*M9le42saJxWlOYyYvhKtPA.jpeg)
+
 
 ## DEFINITION
 Machine Learning is a branch of Artificial Intelligence
